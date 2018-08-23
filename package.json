@@ -1,0 +1,23 @@
+{
+  "name": "gitote",
+  "version": "1.0.0",
+  "description": "Gitote CDN Files",
+  "main": "logo.png",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/gitote/cdn.git"
+  },
+  "keywords": [
+    "Gitote",
+    "CDN"
+  ],
+  "author": "Gitote",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/gitote/cdn/issues"
+  },
+  "homepage": "https://gitlab.com/gitote/cdn#README"
+}
