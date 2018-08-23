@@ -1,6 +1,6 @@
 {
   "name": "gitote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gitote CDN Files",
   "main": "logo.png",
   "scripts": {
